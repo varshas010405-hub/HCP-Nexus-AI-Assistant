@@ -149,7 +149,7 @@ Frontend Response
 
 
 ```
-screenshots/ai-assistant.png
+
 ```
 
 <img width="1917" height="956" alt="Screenshot 2026-07-10 114749" src="https://github.com/user-attachments/assets/ba04df9c-7dd9-4b12-960f-bcad5cd3f94a" />
@@ -162,7 +162,7 @@ screenshots/ai-assistant.png
 > Manual CRM interaction entry.
 
 ```
-screenshots/structured-form.png
+
 ```
 
 <img width="1917" height="882" alt="Screenshot 2026-07-10 125045" src="https://github.com/user-attachments/assets/cefc0848-a26c-4004-84d6-0257049f700a" />
@@ -175,7 +175,7 @@ screenshots/structured-form.png
 > View and search previous healthcare interactions.
 
 ```
-screenshots/history.png
+
 ```
 
 <img width="1895" height="806" alt="Screenshot 2026-07-10 130646" src="https://github.com/user-attachments/assets/4e722644-a316-413f-a136-5f51c5c4a462" />
@@ -188,7 +188,7 @@ screenshots/history.png
 > User preferences and application configuration.
 
 ```
-screenshots/settings.png
+
 ```
 
 <img width="1906" height="796" alt="image" src="https://github.com/user-attachments/assets/3e7b7bfa-b21d-4e37-8c7f-0c506a7a70ed" />
